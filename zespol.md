@@ -6,7 +6,7 @@ Nazwa zespołu: kukuriniaze
 Bartek
 ## Motto 
 
-???
+Nie ma roboty której nie spartolimy
 
 ##Ulubione technologie
 windows
