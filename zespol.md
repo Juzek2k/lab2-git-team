@@ -1,6 +1,6 @@
 # Zespół
 
-Nazwa zespołu: ???
+Nazwa zespołu: kukuriniaze
 
 ## Skład
 Bartek
