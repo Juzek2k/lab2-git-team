@@ -3,7 +3,7 @@
 Nazwa zespołu: ???
 
 ## Skład
-
+Bartek
 ## Motto 
 
 ???
