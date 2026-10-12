@@ -6,7 +6,7 @@ Nazwa zespołu: kukuriniaze
 Bartek
 ## Motto 
 
-w chuja cięcie też zajęcie 
+Nie ma roboty której nie spartolimy
 
 ##Ulubione technologie
 windows
