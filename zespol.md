@@ -1,6 +1,6 @@
 # Zespół
 
-Nazwa zespołu: ???
+Nazwa zespołu: Kongo Bongo
 
 ## Skład
 Bartek
