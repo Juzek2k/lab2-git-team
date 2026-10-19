@@ -1,4 +1,4 @@
-# Zespół
+# Zespół-specjalny
 
 Nazwa zespołu: kukuriniaze
 
