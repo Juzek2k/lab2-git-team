@@ -5,3 +5,6 @@ nic nie trzymam
 mam puste ręce
 nie mam nic
 dosłownie pusto
+
+
+top5 beznadziejnych planow
