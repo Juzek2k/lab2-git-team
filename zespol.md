@@ -1,4 +1,4 @@
-# Zespół-kokenspaniel 
+# Zespół-specjalny
 
 Nazwa zespołu: kukuriniaze
 
